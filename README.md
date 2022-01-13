@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Myok4u
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Data science , Python
